@@ -14,7 +14,7 @@ def first_challenge
   }
 
   #your code here
-  contacts["Freddy Mercury"].delete_if 
+  contacts["Freddy Mercury"].delete_if {
      
   
 
