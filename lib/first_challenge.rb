@@ -14,8 +14,8 @@ def first_challenge
   }
 
   #your code here
-  contacts["Freddy Mercury"].each do |attribute, value|
-    delete_if attribute == 
+  contacts["Freddy Mercury"].delete_if 
+     
   
 
   #remember to return your newly altered contacts hash!
